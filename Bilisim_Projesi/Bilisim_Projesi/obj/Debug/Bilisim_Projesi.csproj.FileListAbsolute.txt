@@ -1,0 +1,45 @@
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.exe.config
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.exe
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.pdb
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.csprojResolveAssemblyReference.cache
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.Form1.resources
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.Properties.Resources.resources
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.csproj.GenerateResource.Cache
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.exe
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.pdb
+c:\users\rasim\documents\visual studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.menu.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitakEkle.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapDüzenle.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapSil.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciDuzenle.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciSil.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciEkle.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciGoster.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapGöster.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapKirala.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KiralananlarıGoster.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.GecKalanKitaplar.resources
+C:\Users\Rasim\Documents\Visual Studio 2013\Projects\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.teslimal.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.exe.config
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.exe
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\bin\Debug\Bilisim_Projesi.pdb
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.csproj.AssemblyReference.cache
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.Form1.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.GecKalanKitaplar.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KiralananlarıGoster.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitakEkle.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapDüzenle.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapGöster.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapKirala.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.KitapSil.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.menu.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciEkle.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciDuzenle.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciGoster.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.OgrenciSil.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.Properties.Resources.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.teslimal.resources
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.csproj.GenerateResource.cache
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.exe
+C:\Users\Çelebi\OneDrive\Masaüstü\Bilisim_Projesi\Bilisim_Projesi\obj\Debug\Bilisim_Projesi.pdb
