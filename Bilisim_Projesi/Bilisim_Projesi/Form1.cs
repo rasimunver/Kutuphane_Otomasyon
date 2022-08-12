@@ -67,6 +67,11 @@ namespace Bilisim_Projesi
         {
             this.Close();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Kullanıcı Adı:rasim  Şifre:123");
+        }
     }
 }
 
